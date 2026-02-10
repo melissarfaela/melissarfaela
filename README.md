@@ -1,52 +1,74 @@
+<p align="center">
+
+</p>
+
+
 <div align="center">
   <span>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+a+Melissa!+🐢+🐧;" alt="Typing SVG" />
-  </span>
-  <span>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=EC4899&cursorColor=EC4899&center=true&vCenter=true&width=520&lines=Ola,+eu+sou+a+Melissa" alt="Typing SVG"/>  <span>
     <img src="gif-readme.gif" alt="Lapras GIF" width="350"/>
   </span>
 </div>
 
----
+----
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melll1601&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melll1601&layout=compact&theme=radical&hide_border=true"/>
+
+<div align="center">
+  
+### Trajetória Profissional e Acadêmica 🎓
+
+<p>
+Formação: Concluí o Ensino Médio com Técnico Integrado em STEAM em 2025 e, atualmente, curso Aprendizagem Industrial em Desenvolvimento de Sistemas pela WEG (AI MIDS 77).
 </p>
+</div>
+
+
 
 <br>
 
+<div align="center">
+  
+### Tecnologias utilizadas e em aprendizado 🌟
 
 
----
+<img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,tailwind,arduino,mysql,maven,git,figma,notion,vscode,eclipse,postman,spring,kotlin,idea,docker&theme=dark" />
 
+</div>
 
+<br>
 
-<p align="center">
-  Tecnologias utilizadas e em aprendizado 🌟
+<div align="center">
   
   <br>
-  <br>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,arduino,mysql,maven,git,figma,vscode,eclipse&theme=dark" />
-</p>
 
-<br>
-<br>
+[![Spotify Playing](https://spotify-github-profile.kittinanx.com/api/view?uid=312xxgd5lo572cbiaj3he3p7kkpi&theme=spotify-embed&cover_image=true&background_color=000000&mode=dark&bar_color=EC4899)](
+https://spotify-github-profile.kittinanx.com/api/view?uid=312xxgd5lo572cbiaj3he3p7kkpi&redirect=true)
+
+</div>
+
+  <br>
+  <br>
 
 <table>
   <tr>
     <td>
       Projetos em Destaque 😁🌺
+
+  <br>
+  <br>
+
+  SEO Agency 💻: https://github.com/melll1601/SEO-Agency
+  <br>
+  <br>
+      WEG + Segura 🔰: https://github.com/andrMiotto/WEG-Segura-Sustentavel
       <br>
       <br>
-      <br>
-      WEG One 🔵: [Link](https://github.com/Liiiiisssz/WegOne)  
-      <br>
-      <br>
-      SEO Agency 💻: [Link](https://github.com/melll1601/SEO-Agency)  
+      TypeWeather ⛅: https://github.com/melll1601/TypeWeather
       <br>
       <br>
-      WEG + Segura 🔰: [Link](https://github.com/andrMiotto/WEG-Segura-Sustentavel)
+      HotelSystem 🏠: https://github.com/melll1601/Hotel-System
+      <br>
     </td>
     <td>
       <img src="stardewValley-readme.gif" alt="Lapras GIF" width="350"/>
@@ -76,6 +98,4 @@
 
 
 
-<br> 
-
-
+<br>
