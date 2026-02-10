@@ -28,13 +28,19 @@ Formação: Concluí o Ensino Médio com Técnico Integrado em STEAM em 2025 e, 
 <br>
 
 <div align="center">
-  
+
 ### Tecnologias utilizadas e em aprendizado 🌟
 
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,tailwind,arduino,mysql,maven,git,figma,notion,vscode,eclipse,postman,spring,kotlin,idea,docker&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,tailwind,arduino,mysql,maven,git,figma&theme=dark">
+</p>
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=notion,vscode,eclipse,postman,spring,kotlin,idea,docker&theme=dark">
+</p>
+
+
 
 <br>
 
@@ -53,28 +59,41 @@ https://spotify-github-profile.kittinanx.com/api/view?uid=312xxgd5lo572cbiaj3he3
 <table>
   <tr>
     <td>
-      Projetos em Destaque 😁🌺
 
-  <br>
-  <br>
+<h3 style="color:#EC4899;">🌸 Projetos em Destaque</h3>
 
-  SEO Agency 💻: https://github.com/melll1601/SEO-Agency
-  <br>
-  <br>
-      WEG + Segura 🔰: https://github.com/andrMiotto/WEG-Segura-Sustentavel
-      <br>
-      <br>
-      TypeWeather ⛅: https://github.com/melll1601/TypeWeather
-      <br>
-      <br>
-      HotelSystem 🏠: https://github.com/melll1601/Hotel-System
-      <br>
+<ul>
+  <li>
+    <a href="https://github.com/melll1601/SEO-Agency" style="color:#EC4899; text-decoration:none;">
+      <strong>SEO Agency</strong>
+    </a>
+  </li>
+
+  <li>
+    <a href="https://github.com/andrMiotto/WEG-Segura-Sustentavel" style="color:#EC4899; text-decoration:none;">
+      <strong>WEG + Segura</strong>
+    </a>
+  </li>
+
+  <li>
+    <a href="https://github.com/melll1601/TypeWeather" style="color:#EC4899; text-decoration:none;">
+      <strong>TypeWeather</strong>
+    </a>
+  </li>
+
+  <li>
+    <a href="https://github.com/melll1601/Hotel-System" style="color:#EC4899; text-decoration:none;">
+      <strong>HotelSystem</strong>
+    </a>
+  </li>
+</ul>
     </td>
     <td>
       <img src="stardewValley-readme.gif" alt="Lapras GIF" width="350"/>
     </td>
   </tr>
 </table>
+
 
 <br>
 <br>
