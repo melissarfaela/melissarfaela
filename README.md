@@ -58,7 +58,8 @@ https://spotify-github-profile.kittinanx.com/api/view?uid=312xxgd5lo572cbiaj3he3
 
 <table>
   <tr>
-    <td>
+    <!-- coluna do texto -->
+    <td valign="top">
 
 <h3 style="color:#EC4899;">🌸 Projetos em Destaque</h3>
 
@@ -88,11 +89,13 @@ https://spotify-github-profile.kittinanx.com/api/view?uid=312xxgd5lo572cbiaj3he3
   </li>
 </ul>
     </td>
-    <td>
+    <!-- coluna da imagem -->
+    <td valign="top">
       <img src="stardewValley-readme.gif" alt="Lapras GIF" width="350"/>
     </td>
   </tr>
 </table>
+
 
 
 <br>
