@@ -37,7 +37,7 @@ Formação: Concluí o Ensino Médio com Técnico Integrado em STEAM em 2025 e, 
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,kotlin,ts,idea,androidstudio,postman,docker,vscode&theme=dark"></p>
+<img src="https://skillicons.dev/icons?i=spring,kotlin,ts,idea,androidstudio,postman,docker,vscode&theme=dark"></p>
 
 
 
