@@ -96,7 +96,6 @@ https://spotify-github-profile.kittinanx.com/api/view?uid=312xxgd5lo572cbiaj3he3
 </table>
 
 
-L
 <br>
 <br>
 
