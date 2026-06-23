@@ -96,7 +96,7 @@ https://spotify-github-profile.kittinanx.com/api/view?uid=312xxgd5lo572cbiaj3he3
 </table>
 
 
-
+L
 <br>
 <br>
 
@@ -118,5 +118,6 @@ https://spotify-github-profile.kittinanx.com/api/view?uid=312xxgd5lo572cbiaj3he3
 </div>
 
 
+<img width="445" height="462" alt="Captura de tela 2026-06-22 213055" src="https://github.com/user-attachments/assets/0e6f1f90-44f4-45de-9554-0dcfa5d543b9" />
 
 <br>
